@@ -25,9 +25,9 @@ Make sure you have Rust installed. If not, you can install it via [rustup](https
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 # Follow the on-screen instructions
-git clone https://github.com/balint0513/
+git clone https://github.com/balint0513/rsvisualsort.git
 # Clone the repository
-cd rustsortingvisualization
+cd rsvisualsort
 # Cd into the project directory
 cargo run
 # Run the project
