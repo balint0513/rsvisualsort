@@ -7,9 +7,11 @@ A simple yet elegant terminal-based application that visualizes various sorting 
 Visual representation of sorting algorithms directly in your terminal.  
 
 Currently implemented algorithms:  
-    - Bubble Sort
-    - Selection Sort
-    - Insertion Sort
+
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+  
 Step-by-step animation of the sorting process.
 
 ## 🚀 Getting Started
